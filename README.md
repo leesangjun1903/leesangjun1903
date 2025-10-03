@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Korea University(Graduated). I am Master's Degree in Mathematics and Data Science.
+- 🔭 I’m currently Graduated Korea University. I am Master's Degree in Mathematics and Data Science.
 - 🌱 I’m currently learning Mathematics, Machine learning, Deep learning, Reinforcement Learning and Data analysis.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I'm looking for a place where I can have a stable work life.
