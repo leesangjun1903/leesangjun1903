@@ -21,8 +21,10 @@ This GitHub repository contains various categories:
 
 ## Contribution
 ## AI Optimization
-> ### Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations : https://arxiv.org/abs/2412.06265
+> Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations : https://arxiv.org/abs/2412.06265
 
 ## Computer Vision
-> ### Chest X-Ray Bone Suppression : Lightweight Model Design for Efficient Bone Suppression Image Transformation
-> ### Medical Image Super-Resolution, Pneumonia Classification : Multitask Deep Learning Framework for Medical Imaging 
+> ### Chest X-Ray Bone Suppression :
+> Lightweight Model Design for Efficient Bone Suppression Image Transformation
+> ### Medical Image Super-Resolution, Pneumonia Classification :
+> Multitask Deep Learning Framework for Medical Imaging : https://github.com/leesangjun1903/leesangjun1903/blob/main/Multitask%20Deep%20Learning%20Framework%20for%20Medical%20Imaging_V3.pdf
