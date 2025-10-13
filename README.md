@@ -4,7 +4,8 @@ Here are some ideas to get you started:
 
 - 🔭 I graduated from Korea University with a Master's degree in Mathematics and Data Science.
 - 🌱 I majored in Mathematics, which provided a strong foundation for my studies in Machine Learning, Deep Learning, Reinforcement Learning, and Data Analysis.
-- I am actively preparing for a career as an AI Researcher, with hands-on experience in developing diverse AI models across computer vision and natural language processing. My portfolio includes projects below(**Contribution**).
+- I am actively preparing for a career as an AI Researcher, with hands-on experience in developing diverse AI models across computer vision and natural language processing.
+- My portfolio includes the projects listed below, highlighting my contributions.
 
 ## Contribution
 ## AI Optimization
