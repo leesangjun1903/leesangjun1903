@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jimmy1903@korea.ac.kr
 
 ## Contribution
-### AI Optimization
-#### https://arxiv.org/abs/2412.06265 : Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations
-### Computer Vision
-#### Chest X-Ray Bone Suppression : Lightweight Model Design for Efficient Bone Suppression Image Transformation
-#### Multitask Deep Learning Framework for Medical Imaging : Medical Image Super-Resolution, Pneumonia Classification
+## AI Optimization
+> ### Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations : https://arxiv.org/abs/2412.06265
+
+## Computer Vision
+> ### Chest X-Ray Bone Suppression : Lightweight Model Design for Efficient Bone Suppression Image Transformation
+> ### Medical Image Super-Resolution, Pneumonia Classification : Multitask Deep Learning Framework for Medical Imaging 
