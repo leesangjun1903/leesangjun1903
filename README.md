@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 ### AI Optimization
 #### https://arxiv.org/abs/2412.06265 : Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations
 ### Computer Vision
-#### Medical Task(Chest X-Ray Bone Suppression, Pneumonia Classification, Medical Image Super-Resolution, etc.)
+#### Chest X-Ray Bone Suppression :  
+#### Multitask Deep Learning Framework for Medical Imaging : Medical Image Super-Resolution, Pneumonia Classification
