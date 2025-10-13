@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 This GitHub repository contains various categories:
 - **Medical AI**: Explore possibilities by explaining various AI models and related research papers for medical applications.
-- **Data Science and Machine Learning**: Explain various machine learning techniques, such as GNN and TDA, and optimization methods useful for data science.
+- **Data Science and Machine Learning Application**: Explain various machine learning techniques, such as GNN and TDA, and optimization methods useful for data science.
 - **Computer Vision**: Explain the AI models used in computer vision.
 - **Tabular**: Explore AI models used with tabular data.
 - **Reinforcement Learning**: Understand reinforcement learning algorithms.
