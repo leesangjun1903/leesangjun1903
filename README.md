@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 ### AI Optimization
 #### https://arxiv.org/abs/2412.06265 : Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations
 ### Computer Vision
-#### Chest X-Ray Bone Suppression :  
+#### Chest X-Ray Bone Suppression : Lightweight Model Design for Efficient Bone Suppression Image Transformation
 #### Multitask Deep Learning Framework for Medical Imaging : Medical Image Super-Resolution, Pneumonia Classification
