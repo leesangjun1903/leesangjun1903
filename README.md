@@ -10,7 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jimmy1903@korea.ac.kr
 
 This GitHub repository contains various categories:
-
+- **Medical AI**: Explore possibilities by explaining various AI models and related research papers for medical applications.
+- **Data Science and Machine Learning**: Explain various machine learning techniques, such as GNN and TDA, and optimization methods useful for data science.
+- **Computer Vision**: Explain the AI models used in computer vision.
+- **Tabular**: Explore AI models used with tabular data.
+- **Reinforcement Learning**: Understand reinforcement learning algorithms.
+- **NLP**: Analyze the current trends and internal architectural structures of LLM models, including Multi-Modal models.
+- **Audio**: Study models specifically for audio data.
+- **Time-series**: Study models for understanding and predicting the flow of time-series data.
 
 ## Contribution
 ## AI Optimization
