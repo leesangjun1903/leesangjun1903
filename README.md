@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 - **Audio**: Study models specifically for audio data.
 - **Time-series**: Study models for understanding and predicting the flow of time-series data.
 
+##
 - 💬 If you have any questions, please feel free to ask.
 - 📫 How to reach me: jimmy1903@korea.ac.kr
