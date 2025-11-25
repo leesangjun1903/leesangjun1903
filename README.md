@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 > Multitask Deep Learning Framework for Medical Imaging : https://github.com/leesangjun1903/leesangjun1903/blob/main/Multitask%20Deep%20Learning%20Framework%20for%20Medical%20Imaging_V3.pdf
 
 ## Time-Series Forecasting
-> ### Real Estate Demand Prediction (Top 6%)
+> Real Estate Demand Prediction (Top 6%)
 
 ## Data Science
-> ### Predicting the Beats-per-Minute of Songs (Top 15%)
+> Predicting the Beats-per-Minute of Songs (Top 15%)
 
 For more details, please refer to this link : https://www.kaggle.com/junideal/competitions
 
