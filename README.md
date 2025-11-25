@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## Contribution
 ## AI Optimization
-> #### Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations : https://arxiv.org/abs/2412.06265
+>  Table2Image: Interpretable Tabular Data Classification with Realistic Image Transformations : https://arxiv.org/abs/2412.06265
 
 ## Computer Vision
 > ### Chest X-Ray Bone Suppression :
